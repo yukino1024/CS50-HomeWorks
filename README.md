@@ -23,6 +23,7 @@ It wasn't the "wow" factor of an LLM's fluent conversation. Instead, it was the 
 
 ## 🏆 Challenges Conquered | 通关挑战
 I explored the rigorous foundations of AI, moving from "Classical Logic" to "Modern Machine Learning":
+
 我探索了 AI 最严谨的底层逻辑，跨越了从“经典逻辑”到“现代机器学习”的挑战：
 
 * **🧩 Search:** Implementing BFS, DFS, and Minimax (e.g., *Degrees*, *Tic-Tac-Toe*).
