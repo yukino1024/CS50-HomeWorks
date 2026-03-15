@@ -14,7 +14,7 @@
 ## 🧭 What's This? | 关于这个项目
 This repository contains my implementations for Harvard's **CS50’s Introduction to Artificial Intelligence with Python**.  
 
-这个仓库记录了我完成哈佛大学 CS50AI 课程的所有代码挑战与项目实现。
+这个仓库记录了我完成哈佛大学 CS50AI 课程的所有项目代码。
 
 ## 💡 The "Aha!" Moment | 学习感悟
 Completing this course was the moment I truly understood the power of AI.
