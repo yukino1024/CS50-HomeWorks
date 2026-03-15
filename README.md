@@ -2,6 +2,7 @@
 ### 哈佛 CS50 AI：认识AI的起点
 
 >  **Completed during the 2024 Spring Festival**
+
 > **这份课程项目完成于 2024 年春节。对我而言，那是 AI 学习真正的起点。**
 
 ---
