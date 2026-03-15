@@ -9,10 +9,12 @@
 
 ## 🧭 What's This? | 关于这个项目
 This repository contains my implementations for Harvard's **CS50’s Introduction to Artificial Intelligence with Python**.  
+
 这个仓库记录了我完成哈佛大学 CS50AI 课程的所有代码挑战与项目实现。
 
 ## 💡 The "Aha!" Moment | 学习感悟
-Completing this course was the moment I truly understood the power of AI.  
+Completing this course was the moment I truly understood the power of AI.
+
 完成这门课，是我真正理解 AI 强大之处的转折点。
 
 It wasn't the "wow" factor of an LLM's fluent conversation. Instead, it was the shock of seeing AI as a **genuine productivity and research tool**. Realizing how algorithms solve search, logic, and probability problems from the ground up changed my perspective entirely. This conviction has only grown stronger as I’ve continued my journey.  
