@@ -3,6 +3,10 @@
 
 >  **Completed during the 2024 Spring Festival**
 
+<div align="center">
+<img src="./MyCertificate.png" width="800px" alt="CS50AI Certificate">
+</div>
+
 > **这份课程项目完成于 2024 年春节。对我而言，那是 AI 学习真正的起点。**
 
 ---
