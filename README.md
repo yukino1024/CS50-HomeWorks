@@ -1,13 +1,13 @@
 #  Harvard CS50 AI: The Turning Point
 ### 哈佛 CS50 AI：认识AI的起点
 
->  **Completed during the 2024 Spring Festival**
+> ## ❄️ Completed during the 2023-2024 Winter Vacation
+> ## 完成于 2023-2024 年寒假。这个课程伴随我来到了新的一年，也是我 AI 学习真正的起点。
 
 <div align="center">
   <img src="./MyCertificate.png" width="400px" alt="CS50AI Certificate">
 </div>
 
-> **这份课程项目完成于 2024 年春节。对我而言，那是 AI 学习真正的起点。**
 
 ---
 
